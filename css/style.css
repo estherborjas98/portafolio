@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Open Sans:400,500,600,700');
+
+.nav-link{
+	color: aliceblue;
+}
+#portafolio{
+	padding-left: 55px;
+	padding-right: 30px;	
+}
+#portafolio h5 {
+color: #8505BC;
+}
+#about{
+	background-image: url("../img/istockphoto-1134068329-612x612.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #FFFFFF;
+	
+}
+.navbar{
+	background-color: #8505BC;
+	
+}
+.esther{
+	font-family: 'Josefin Sans', sans-serif;
+    font-size: 75px;
+	padding-top: 10px;
+	margin-bottom: -15px;
+	color: #FFFFFF;
+}
+.lic {
+	font-size: 20px;
+	margin-bottom: 40px;
+	padding-bottom: 30px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #FFFFFF;
+}
+.text-center{
+	margin-top: px;
+}
+.img-fluid{
+	max-width: -50%;
+	max-height: -50%;
+}
+.texto{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #FFFFFF;
+}
+.servicios{
+	font-size: 50px;
+	color: #8505BC;
+	
+}
+.servicios h4{
+	color:#000000 ;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+#services{
+	background-color: #FFFFFF;
+}
+#services h3{
+	font-size: 50px;
+	padding-top: 20px;
+	color: #8505BC;
+}
+#page-top{
+	background-color: #FFFFFF;
+}
+#portafolio h3{
+	padding-top: 5%;
+	color:aliceblue ;
+	font-size: 50px;
+	margin-bottom: 40px;
+	
+}
+#portafolio{
+	background-color: #8505BC;
+}
+#contact{
+	background-color: #FFFFFF;
+	color: #8505BC;
+}
+#contact h1{
+	padding-top: 5%;
+}
+#correos{
+	font-size: 60px;
+	color: #8505BC;
+
+}
+#correos h5{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	padding-bottom: 30px;
+}
+#footer{
+	background-color: #8505BC;
+	color: aliceblue
+		
+}
+#footer h4{
+	padding-top: 3%;
+}
+.redes{
+	font-size: 50px;
+	color:  #FFFFFF;
+}
+.fa-facebook-square{
+	color:  #FFFFFF;
+}
+.fa-instagram{
+	color:  #FFFFFF; 
+}
+.fa-pinterest-square{
+	color:  #FFFFFF; 
+}.fa-twitter-square{
+	color:  #FFFFFF; 
+}
+#about .img-fluid{
+	height: 350px;
+	width: auto;
+	padding-bottom: 30px;
+}
+#footer .copyright{
+	padding-bottom: 20px;
+}
+#fotos{
+	transition: all 0.3s ease-in;
+}
